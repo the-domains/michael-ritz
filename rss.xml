@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Ritz]]></title>
         <description><![CDATA[Michael Ritz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-ritz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 20:15:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 20:58:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-ritz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In tribute to Andy]]></title>
+            <description><![CDATA[<article><h1>In tribute to Andy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c90bd2eeb29d757cbfccc2696fef3198683730a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-ritz/in-tribute-to-andy/index.html</link>
+            <guid isPermaLink="false">159d6e33-08ba-4913-9e05-78b235087d1d</guid>
+            <pubDate>Mon, 11 Jan 2016 20:58:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6fd3ab9-3ac9-452d-b571-753b6d232f24.jpg">]]></description>
-            <link>undefined2a7b6ae3-0a8b-47df-84b7-251598da9ea3/index.html</link>
+            <link>https://thegrid.ai/michael-ritz/2a7b6ae3-0a8b-47df-84b7-251598da9ea3/index.html</link>
             <guid isPermaLink="false">2a7b6ae3-0a8b-47df-84b7-251598da9ea3</guid>
             <pubDate>Mon, 11 Jan 2016 20:15:06 GMT</pubDate>
         </item>
