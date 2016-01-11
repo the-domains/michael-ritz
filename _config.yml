@@ -1,0 +1,28 @@
+name: Michael Ritz
+favicon: null
+layout_spectrum: 0.8962286731693894
+typography_spectrum: 0.8727651610970497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.13778052432462573
+  lightness: 0.7439200542867184
+  saturation: 0.5376971564255655
+  rhythmicContrast: 0.4023341494612396
+purpose: []
